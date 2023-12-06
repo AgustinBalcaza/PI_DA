@@ -32,7 +32,7 @@ Se crearon visualizaciones y gráficos para analizar valores atípicos en los si
 Dataset
 ---------
 
-El dataset **homicidios.xlsx** fue extraído de BA Data.
+El dataset **homicidios.xlsx** fue extraído de BA Data. Los otros datasets están presentes en la carpeta **data/** y fueron creados mediante ETL
 
 
 Autor
